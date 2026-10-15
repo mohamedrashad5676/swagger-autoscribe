@@ -1,0 +1,1 @@
+{ "name": "pkgdto-app", "private": true, "dependencies": { "@acme/shared": "file:../../shared-1.0.0.tgz" } }
